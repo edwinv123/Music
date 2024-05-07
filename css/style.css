@@ -2,3 +2,8 @@
     background: rgb(24,156,158);
     background: linear-gradient(0deg, rgba(24,156,158,1) 0%, rgba(151,236,244,0.6890951276102089) 100%);
 }
+
+.card-body {
+    background: rgb(127,232,130);
+background: linear-gradient(0deg, rgba(127,232,130,1) 0%, rgba(151,236,244,0.6890951276102089) 100%);
+}
